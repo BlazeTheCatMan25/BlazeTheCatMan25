@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BlazeTheCatMan25
-- 👀 I’m interested in coding, sonic, anime, anime girls, space, games, cats,
+- 👀 I’m interested in coding, sonic the hedgehog, anime, anime girls, space, games, cats, spy x family,
 - 🌱 I’m currently learning python as main programming langauge and lua and maybe HTML, CSS, javaScript
 - 💞️ depending onwhen i feel like it or when i am ready.
 - 📫 How to reach me 
