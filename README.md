@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Code-Luno
-- 👀 I’m interested in coding, sonic the hedgehog, anime, anime girls, space, games, cats, spy x family,
+- 👀 I’m interested in coding, sonic the hedgehog, anime, anime girls, space, video games, cats, Spy x Family
 - 👯 my favorite characters are blaze the cat and tails the fox! and my oc Luno TwinkleStar! which is also part of a companion chatbot i am working on!
 - 🌱 I’m currently learning python as main programming langauge and lua and maybe HTML, CSS, javaScript
 - 💞️ depending on when i feel like it or when i am ready.
